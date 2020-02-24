@@ -6,5 +6,6 @@ class TestMain
     int b;
     System.out.prinltn("Hello");
     System.out.println("Reflect changes in master");
+    System.out.println("Done");
   }
 }
